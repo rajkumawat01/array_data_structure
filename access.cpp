@@ -1,4 +1,4 @@
-//this program is show
+//this program is to show
 //how to declare array data structure
 //and access an array
 
