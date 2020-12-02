@@ -1,4 +1,4 @@
-//this program is show
+//this program is to show
 //how to declare array data structure
 //and access an array
 
@@ -17,12 +17,12 @@ int main()
     arr[3]=34;
     arr[4]=12;
 
-    //displaying all values of t
-    //he array using for loop
+    //displaying all values of 
+    //the array using for loop
     for(int i=0; i<5; i++)
     {
         cout << arr[i] << endl;
     }
 
-
+    return 0;
 }
