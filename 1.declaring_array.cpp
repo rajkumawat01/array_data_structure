@@ -1,4 +1,4 @@
-//simple method to declare integer type array variable
+//simple program method to declare integer type array variable
 
 #include <iostream>
 using namespace std;
