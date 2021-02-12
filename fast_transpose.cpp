@@ -1,9 +1,5 @@
 //code for fast transpose operation on sparse matrix
 
-//Name - Raj Somnath Kumawat
-//Div - B
-//Roll no. - SECOB224
-
 #include <iostream>
 #define MAX 100
 using namespace std;
